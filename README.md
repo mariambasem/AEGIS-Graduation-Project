@@ -39,15 +39,8 @@ scripts/                   Figure regeneration, benchmarks, data preprocessing
 
 
 
-## Project context
 
-Part of the AEGIS senior project at Nile University, supervised by Dr. Noha Gamal El-Dien and Dr. Mohamed El-Helw.
-Team: Amina Seddik (encryption + dashboard + hardware), Omar Moustafa (AI/ML), Mariam Basem (mitigation).
 
-Related repositories:
-- [aegis-crypto](https://github.com/AminaSeddik/aegis-crypto) — AEGIS-AEAD cryptographic library
-- [aegis-firmware](https://github.com/AminaSeddik/aegis-firmware) — ESP32 firmware (private)
-- [aegis-omnet](https://github.com/AminaSeddik/aegis-omnet) — OMNeT++ hospital network simulation
 
 ## License
 
