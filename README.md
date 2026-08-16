@@ -36,9 +36,8 @@ tests/                     Integration tests
 scripts/                   Figure regeneration, benchmarks, data preprocessing
 ```
 
-## Author
 
-Amina Seddik (Nile University, ITCS).
+
 
 ## Project context
 
